@@ -1,0 +1,25 @@
+{
+  "short_name": "Save TikTok",
+  "name": "Save TikTok",
+  "icons": [
+    {
+      "src": "tiktokLogo.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "tiktokLogo.png",
+      "type": "image/png",
+      "sizes": "100x100"
+    },
+    {
+      "src": "tiktokIcon200.png",
+      "type": "image/png",
+      "sizes": "200x200"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
